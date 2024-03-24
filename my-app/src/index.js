@@ -16,5 +16,8 @@ import Custom1 from "./Custom1"
 import Calculater2 from "./Calculater2";
 import Usestateform from "./Usestateform";
 import Usestate4 from "./Usestate4";
+import ProjectTodo from "./ProjectTodo"
+import Calculator1 from "./Calculator1";
+
 const root=ReactDOM.createRoot(document.getElementById("root"));
-root.render(<Usestate4/>)
+root.render(<Calculator1/>)
